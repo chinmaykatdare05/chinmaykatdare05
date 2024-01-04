@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chinmay Katdare</h1>
 
-###
-
 <h3 align="center">A passionate Engineering Student from India</h3>
 
-###
+---
 
-<p align="left">🌱 I’m currently learning JavaScript and React<br><br>📫 How to reach me chinmayy05@gmail.com</p>
+🌱 I’m currently learning JavaScript and React  
+📫 How to reach me [chinmayy05@gmail.com](mailto:chinmayy05@gmail.com)
 
-###
+---
 
 <h3 align="left">Connect with me:</h3>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="linkedin logo"/>
@@ -25,11 +22,9 @@
   <img width="12" />
 </div>
 
-###
+---
 
 <h3 align="left">Languages:</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
@@ -44,12 +39,9 @@
   <img width="12" />
 </div>
 
-###
-###
+---
 
 <h3 align="left">Tools:</h3>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" alt="amazonwebservices logo"  />
@@ -76,5 +68,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
 </div>
-
-###
