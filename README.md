@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinmay Katdare</h1>
 
-<h3 align="center">A passionate Engineering Student from India</h3>
+<h3 align="center">A Passionate Engineering Student from India</h3>
 
 ---
 
