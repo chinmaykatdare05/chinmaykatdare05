@@ -10,8 +10,8 @@
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay-katdare)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%068932.svg?logo=hackerrank&logoColor=white)](https://linkedin.com/in/chinmay-katdare)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23ED8B00.svg?logo=leetcode&logoColor=white)](https://linkedin.com/in/chinmay-katdare)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%068932.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/chinmaykatdare05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23ED8B00.svg?logo=leetcode&logoColor=white)](https://leetcode.com/chinmaykatdare05/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chinmayy_05)
 
 ## 🧑🏻‍💻 Languages
