@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chinmay Katdare
 
-### A Python Enthusiast and a Passionate Engineering Student from India
+### A Machine Learning Enthusiast and a Passionate Engineering Student from India
 
 ---
 
