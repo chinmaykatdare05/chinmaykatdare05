@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chinmay Katdare
 
-### Machine Learning Enthusiast
+### Artificial Intelligence & Machine Learning Enthusiast
 
 ---
 
