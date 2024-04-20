@@ -4,7 +4,7 @@
 
 ---
 
-🌱 I’m currently learning Data Science and Machine Learning
+🌱 I’m currently learning Data Science and Machine Learning  
 📫 How to reach me: [chinmayy05@gmail.com](mailto:chinmayy05@gmail.com)
 
 ## 🌐 Connect with me
