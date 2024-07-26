@@ -1,5 +1,3 @@
-![](https://media.licdn.com/dms/image/D4D16AQF1cIBdBlAY7A/profile-displaybackgroundimage-shrink_350_1400/0/1709640693018?e=1727308800&v=beta&t=_Kgo6AvdniRO8xgq5KHYoCDrc3h51maMSMdKQol1u5M)
-
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Chinmay Katdare
 
 ### Artificial Intelligence & Machine Learning Enthusiast
