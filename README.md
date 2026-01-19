@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=70&color=FFFFFF&center=true&vCenter=true&width=600&height=150&lines=NISHANT&repeat=false&runonce=true" alt="Hello World!" />
+
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Chinmay Katdare
 
 ### Artificial Intelligence & Machine Learning Enthusiast
